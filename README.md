@@ -1,1 +1,1 @@
-Clustering online articles by author using NLP bag-of-words features.
+Database utilized for this project can be found here: https://www.kaggle.com/snapcrack/all-the-news
